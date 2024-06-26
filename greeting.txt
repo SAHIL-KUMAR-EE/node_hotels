@@ -1,0 +1,20 @@
+{
+    "name": "Alice",
+    "age": 23,
+    "work": "Chef",
+    "mobile": "911",
+    "email": "alice@gmail.com",
+    "address": "Seatlle",
+    "salary": 60000
+}
+
+{
+    "name":"Smoothie",
+    "price":999,
+    "taste":"sweet",
+    "is_drink":true,
+    "ingredients":[
+        "mango","yogurt","honey"
+    ],
+    "num_sales":45
+}
